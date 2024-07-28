@@ -187,7 +187,6 @@ To execute this project, you can use Remix, an online Solidity IDE. To get start
    - **RedeemRewards:** Click on "RedeemRewards" to redeem the rewards that you have.
 
 By following these steps, you can create and deploy your own DeFi Kingdom clone on Avalanche, utilizing the provided smart contracts.
-```
 
 ## Authors
 

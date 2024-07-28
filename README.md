@@ -189,6 +189,16 @@ To execute this project, you can use Remix, an online Solidity IDE. To get start
 By following these steps, you can create and deploy your own DeFi Kingdom clone on Avalanche, utilizing the provided smart contracts.
 ```
 
+## Authors
+
+Contributors names and contact info:
+- Sparsh Shandil
+- [@Allegiantshark](https://linktr.ee/allegiantshark)
+
+## License
+
+This project is licensed under the Sparsh Shandil License - see the LICENSE.md file for details.
+
 This `README.md` file includes detailed instructions on setting up and deploying the ERC20 and Vault smart contracts using Remix, as 
 well as interacting with them. The provided code snippets are adjusted to match the ERC20 contract with the specified token name "Allegiant Shark" 
 and symbol "Sparsh".
